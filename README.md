@@ -17,7 +17,7 @@
                 <a href='https://wa.me/+972592413118'>
  <img align="left"  alt="Mohammed Almallahi | whatsup" width="40px" height='40px' src="https://i.imgur.com/6Od4ifD.png" />
     
-      <br/>
+
 <br/>
       <h2 font-color='red'>Skills : </h2>
  <img align="left"  alt="Mohammed Almallahi" width="50px" height='50px' src="https://i.imgur.com/h6aqmdr.png" />
