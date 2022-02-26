@@ -7,7 +7,7 @@
 	 <a href='https://www.linkedin.com/in/almallahi/'>
  <img align="left"  alt="Mohammed Almallahi | LinkedIn" width="40px" height='40px' src="https://i.imgur.com/kKKKQCu.png" />
  </a>
- <a href='https://www.facebook.com/mohammed.Almallahi1.999/'>
+ <a href='https://www.facebook.com/Mo7ammedAlmalla7i/'>
  <img align="left"  alt="Mohammed Almallahi | facebook" width="40px" height='40px' src="https://i.imgur.com/RFBzE4B.png" />
       </a> 
        <a href='https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&su=subject+message&to=medoo.almallahi@gmail.com'>
