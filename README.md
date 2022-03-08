@@ -1,3 +1,8 @@
+<p align="center">
+		<img alt="Mohammed Almallahi's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+MohammedA+GitHub+page+:)&center=true&width=450&height=55">
+
+</p>
 <h1 align="center">Hi 👋, I'm Mohammed Almallahi</h1>
 <h3 align="center">I'm a professional software engineer and MERN Stack Developer</h3>
 <table border=0>
