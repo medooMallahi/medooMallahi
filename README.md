@@ -4,7 +4,7 @@
 
 </p>
 <h1 align="center">Hi 👋, I'm Mohammed Almallahi</h1>
-<h3 align="center">I'm a professional software engineer and MERN Stack Developer</h3>
+<h3 align="center">I'm a professional Software Engineer</h3>
 <table border=0>
   <tr border=0>
     <td border=0>
