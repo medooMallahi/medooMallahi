@@ -15,7 +15,7 @@
  <a href='https://www.facebook.com/Mo7ammedAlmalla7i/'>
  <img align="left"  alt="Mohammed Almallahi | facebook" width="40px" height='40px' src="https://i.imgur.com/RFBzE4B.png" />
       </a> 
-       <a href='https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&su=subject+message&to=medoo.almallahi@gmail.com'>
+       <a href='https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&su=subject+message&to=mohammed.b.almallahi@gmail.com'>
  <img align="left"  alt="Mohammed Almallahi | gmail" width="40px" height='40px' src="https://i.imgur.com/kn7FfLZ.png" />
       </a> 
              <a href='https://www.instagram.com/mo7ammed.almalla7i/'>
